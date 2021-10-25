@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.hover-trigger .hover-target {
+    display: none;
+}
+
+.hover-trigger:focus .hover-target {
+    display: block;
+  }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
