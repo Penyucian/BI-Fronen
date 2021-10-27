@@ -73,7 +73,7 @@ const PendapatanPerCaraBayar = () => {
             title: {
                 display: true,
                 color: "white",
-                text: 'Pendapatan Berdasarkan Jenis'
+                text: 'Pendapatan Berdasarkan Cara Bayar'
             }
         },
         responsive: true,

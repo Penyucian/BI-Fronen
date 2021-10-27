@@ -73,7 +73,7 @@ const PendapatanPerUnit = () => {
             title: {
                 display: true,
                 color: "white",
-                text: 'Pendapatan Berdasarkan Unit'
+                text: 'Pendapatan Per Unit Pendukung'
             }
         },
         responsive: true,

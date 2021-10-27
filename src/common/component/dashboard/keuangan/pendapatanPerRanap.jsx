@@ -73,7 +73,7 @@ const PendapatanPerRanap = () => {
             title: {
                 display: true,
                 color: "white",
-                text: 'Pendapatan Berdasarkan Unit Rawat Inap'
+                text: 'Pendapatan Per Ruang Rawat Inap'
             }
         },
         responsive: true,

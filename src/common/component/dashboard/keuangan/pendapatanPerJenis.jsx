@@ -73,7 +73,7 @@ const PendapatanPerJenis = () => {
             title: {
                 display: true,
                 color: "white",
-                text: 'Pendapatan Berdasarkan Jenis'
+                text: 'Pendapatan Berdasarkan Jenisnya'
             }
         },
         responsive: true,

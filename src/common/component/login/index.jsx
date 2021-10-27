@@ -13,9 +13,7 @@ function Login(props) {
     const handleLogin = () => {
         setLoading(true)
         if ((username.value && password.value) !== "") {
-            console.log("test");
-
-            axios.post("http://localhost:2000/api/user/login",
+            axios.post("http://149.28.157.18:2000/api/user/login",
                 {
                     username: username.value,
                     password: password.value
